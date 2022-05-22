@@ -1,2 +1,2 @@
 # Diskreet Messenger
-Diskreet Messenger's official GitHub repository.
+Diskreet Messenger's official public GitHub repository.
