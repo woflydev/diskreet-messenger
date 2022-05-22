@@ -25,6 +25,12 @@ Diskreet is lightweight, elegant, beautiful, non-resource intensive, and easy on
 
 **Diskreet Messenger and Diskreet Client are backed by Diskreet Incorporated, a 100% not-for-profit organization.**
 
+# Feature Roadmap into the far, far future...
+This is an approximation of the features and other interesting titbits of information we hope to release in the coming months. Please note that these are **subject to change without notice** and we reserve the right to change this roadmap at our discretion.
+
+- Client-side server IP configuation.
+- Release of Diskreet Servers so that you yourself may host one if you wish to do so locally.
+
 # What platforms are supported?
 Currently, **only Windows machines are supported** due to the nature of the launcher. However, we are actively developing MacOS and Linux native applications and plan to have them added into the Diskreet family sometime in the future!
 
