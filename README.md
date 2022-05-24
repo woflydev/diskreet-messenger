@@ -52,7 +52,7 @@ If you would like to support this project by contributing and/or porting it over
 # Okay, cool, so how do I get started?
 Welcome aboard the Diskreet family! 
 
-Due to early beta-testing feedback, we have decided to completely re-write the base code of Diskreet. More details are on our [official website](https://diskreet.org/comingsoon.html). Thank you for your understanding, we are working as quickly as possible to bring you the best UI and UX experience possible!
+Due to early beta-testing feedback, we have decided to completely re-write the base code of Diskreet. More details are on our [official website](https://diskreet.org/). Thank you for your understanding, we are working as quickly as possible to bring you the best UI and UX experience possible!
 
 ~~Simply head to the [releases](https://github.com/woflydev/diskreet-messenger/releases) tab on the right hand side and download the latest version. Extract the file and double click 'launcher.exe' and your browser window will pop up.~~
 
