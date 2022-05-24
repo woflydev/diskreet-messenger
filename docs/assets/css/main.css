@@ -3516,9 +3516,17 @@ input, select, textarea {
 
 /* Sidebar */
 
+@keyframes sidebarColorSwitch {
+	0% { background:#3e4094 }
+	50% { background:#261c3e }
+	50% { background:#261c3e }
+	100% { background:#3e4094 }
+}
+
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		/*background: #312450;*/
+		animation: sidebarColorSwitch 20s linear .1s infinite;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3876,7 +3884,7 @@ input, select, textarea {
 	#intro {
 		background-attachment: fixed;
 		/*background-image: url("images/intro.svg"); */
-		animation: 10s linear .1s colorChange infinite;
+		animation: 20s linear .1s colorChange infinite;
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
